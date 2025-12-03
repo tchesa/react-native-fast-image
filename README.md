@@ -6,6 +6,8 @@
 
 Performant React Native image component.
 
+> **Note:** This is a fork of [DylanVann/react-native-fast-image](https://github.com/DylanVann/react-native-fast-image). All credits go to the original project and its maintainers.
+
 [![Version][version-badge]][package]
 [![Downloads][downloads-badge]][npmtrends]
 [![Build Status][build-badge]][build]
@@ -254,13 +256,15 @@ If you require new features or bug fixes for older versions you can fork this pr
 
 ## Credits
 
-The idea for this modules came from
+This project is a fork of [DylanVann/react-native-fast-image](https://github.com/DylanVann/react-native-fast-image). All credit for the original implementation goes to [DylanVann](https://github.com/DylanVann) and the original contributors.
+
+The idea for the original module came from
 [vovkasm's](https://github.com/vovkasm)
 [react-native-web-image](https://github.com/vovkasm/react-native-web-image)
 package.
-It also uses Glide and SDWebImage, but didn't have some features I needed (priority, headers).
+It also uses Glide and SDWebImage, but didn't have some features needed (priority, headers).
 
-Thanks to [@mobinni](https://github.com/mobinni) for helping with the conceptualization
+Thanks to [@mobinni](https://github.com/mobinni) for helping with the conceptualization of the original project.
 
 ## Licenses
 
